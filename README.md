@@ -20,7 +20,7 @@ I am a Frontend Developer and I love programming <img src="https://media.giphy.c
 
 - 🔭 I develop SPA applications using React, Redux, Typescript.
 - 🌱 I plan to further improve my knowledge by studying new technologies.
-- ⚡ In my free time, I solve puzzles on Codewars.
+- ⚡ In my free time, I solve puzzles on Codewars. [![image](https://www.codewars.com/users/staggana/badges/micro?theme=auto)](https://www.codewars.com/users/staggana)
 - 📫 Open to your suggestions: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-rasyk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-rasyk-8b4045260)
 
 ---
